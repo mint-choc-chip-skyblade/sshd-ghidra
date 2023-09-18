@@ -1,5 +1,11 @@
 # Ghidra Documentation for The Legend of Zelda: Skyward Sword HD
 
+## Table of Contents
+* [Pre-requisites](https://github.com/mint-choc-chip-skyblade/sshd-ghidra#pre-requisites)
+* [Setup](https://github.com/mint-choc-chip-skyblade/sshd-ghidra#setup)
+* [Importing Shared Documentation](https://github.com/mint-choc-chip-skyblade/sshd-ghidra#importing-shared-documentation)
+* [Contributing](https://github.com/mint-choc-chip-skyblade/sshd-ghidra#contributing)
+
 ## Pre-requisites
 
 You will need:
@@ -258,9 +264,3 @@ Please follow the provided pull request template when contributing to this
 repository. Please give details about what you have changed - this will help
 speed up the process of reviewing and merging your changes.
 tions.png?raw=true)
-
-### Pull Requests
-
-Please follow the provided pull request template when contributing to this
-repository. Please give details about what you have changed - this will help
-speed up the process of reviewing and merging your changes.
