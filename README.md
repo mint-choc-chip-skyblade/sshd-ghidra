@@ -6,11 +6,9 @@
 Please note, this method of sharing project information is an unsuitable alternative to hosting a Ghidra server due to the loss of namespace information when creating a new project based on the xml files in this repository. **This method should be avoided for other projects.**
 
 ### [New Home](https://www.youtube.com/watch?v=EBhFHJMVfiI)
-The reverse engineering effort for The Legend of Zelda: Skyward Sword HD is now hosted on a server to facilitate a collaborative effort to document the disassembled code with the primary goal of creating [The Legend of Zelda: Skyward Sword HD Randomizer](https://github.com/mint-choc-chip-skyblade/sshd-rando).
+The reverse engineering effort for The Legend of Zelda: Skyward Sword HD is now hosted by the zeldaret team to facilitate a collaborative effort to document the disassembled code with the primary goal of creating [The Legend of Zelda: Skyward Sword HD Randomizer](https://github.com/mint-choc-chip-skyblade/sshd-rando).
 
-You may request access to the server by filing an issue on this repository but we are currently only allowing access to trusted members of the Skyward Sword modding community. This may be expanded in the future. This said, if you have an interest in helping our efforts, please reach out and we'll be happy to help.
-
-You may be interest in looking at [The Legend of Zelda: Skyward Sword Randomizer](https://github.com/ssrando/ssrando), particularly its Discord server, as the SD version of the game is much further along in it's documentation efforts and easier to get started with than HD.
+You may be interest in looking at [The Legend of Zelda: Skyward Sword Randomizer](https://github.com/ssrando/ssrando), particularly its Discord server, as the SD version of the game is much further along in it's documentation efforts and easier to get started with than HD. Also, please see [The Legend of Zelda: Skyward Sword Decompliation](https://github.com/zeldaret/ss) project.
 
 What follows is the documentation about how to setup the now defunct method of setting up Ghidra for working with the code for The Legend of Zelda: Skyward Sword HD. At the time of writing, we have updated to Ghidra 10.4 PUBLIC and will continue to update when possible. The following instructions are for Ghidra 10.3 PUBLIC and will not be updated.
 
